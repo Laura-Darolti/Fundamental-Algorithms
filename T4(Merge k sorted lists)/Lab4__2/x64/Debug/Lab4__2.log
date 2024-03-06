@@ -1,0 +1,5 @@
+﻿  Lab4__2.cpp
+C:\AF\Lab4__2\Lab4__2\Lab4__2.cpp(13,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\AF\Lab4__2\Lab4__2\Lab4__2.cpp(115,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\AF\Lab4__2\Lab4__2\Lab4__2.cpp(135,52): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+  Lab4__2.vcxproj -> C:\AF\Lab4__2\x64\Debug\Lab4__2.exe

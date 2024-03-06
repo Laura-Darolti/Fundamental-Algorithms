@@ -1,0 +1,4 @@
+﻿  Lab7.cpp
+C:\AF\Lab7\Lab7\Lab7.cpp(103,12): warning C4101: 'i': unreferenced local variable
+C:\AF\Lab7\Lab7\Lab7.cpp(103,9): warning C4101: 'j': unreferenced local variable
+  Lab7.vcxproj -> C:\AF\Lab7\x64\Debug\Lab7.exe

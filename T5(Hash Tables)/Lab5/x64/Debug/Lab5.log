@@ -1,0 +1,6 @@
+﻿  Lab5.cpp
+C:\AF\Lab5\Lab5\Lab5.cpp(14,2): warning C4091: 'typedef ': ignored on left of 'h_item' when no variable is declared
+C:\AF\Lab5\Lab5\Lab5.cpp(17,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\AF\Lab5\Lab5\Lab5.cpp(63,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\AF\Lab5\Lab5\Lab5.cpp(65,9): warning C4101: 'i': unreferenced local variable
+  Lab5.vcxproj -> C:\AF\Lab5\x64\Debug\Lab5.exe

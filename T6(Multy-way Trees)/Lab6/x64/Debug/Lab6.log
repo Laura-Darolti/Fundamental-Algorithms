@@ -1,0 +1,4 @@
+﻿  Lab6.cpp
+C:\AF\Lab6\Lab6\Lab6.cpp(30,6): warning C4101: 'i': unreferenced local variable
+C:\AF\Lab6\Lab6\Lab6.cpp(31,6): warning C4101: 'copii': unreferenced local variable
+  Lab6.vcxproj -> C:\AF\Lab6\x64\Debug\Lab6.exe

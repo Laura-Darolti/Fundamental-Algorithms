@@ -1,0 +1,6 @@
+efort_mediu_gasite  ef_maxim_gasite ef_mediu_negasite ef_maxim_negasite
+2                    47                 12              56
+2                     59                16               60
+3                     68                 26               69
+3                    92                  41               94
+5                    257                 112              278
