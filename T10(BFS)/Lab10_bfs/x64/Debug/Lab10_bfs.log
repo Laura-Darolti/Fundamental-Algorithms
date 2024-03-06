@@ -1,0 +1,4 @@
+﻿  bfs.cpp
+C:\Users\laura\Downloads\lab_bfs (1)\lab_bfs\Profiler.h(9,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\laura\Downloads\lab_bfs (1)\lab_bfs\Profiler.h(9,1): message : '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+  Lab10_bfs.vcxproj -> C:\AF\Lab10_bfs\x64\Debug\Lab10_bfs.exe
